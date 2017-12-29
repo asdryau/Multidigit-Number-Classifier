@@ -1,9 +1,10 @@
 # Multidigit-Number-Classifier
 Keras implementation of Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks paper from Google Street View and reCAPTCHA Teams
 
+-----------------------------
 
 Instruction:
-
+-----------------------------
 1) download SVHN dataset format 1 (train,test) from http://ufldl.stanford.edu/housenumbers/
 train.tar.gz : http://ufldl.stanford.edu/housenumbers/train.tar.gz
 test.tar.gz : http://ufldl.stanford.edu/housenumbers/test.tar.gz
@@ -105,4 +106,4 @@ processed data (not included, please download and process dataset to produce
 		*** this is the testing set of the final model
  
 -----------------------------
-  
+  	summary.pdf - summary of the result of the project 
