@@ -1,5 +1,7 @@
 # Multidigit-Number-Classifier
+
 Keras implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf) paper from Google Street View and reCAPTCHA Teams
+
 -----------------------------
 
 Instruction:
